@@ -95,7 +95,6 @@ Para executar a aplicação, siga as instruções abaixo:
 
 ## Observações
 
-- As opções de comando são case-insensitive, ou seja, podem ser digitadas em maiúsculas ou minúsculas.
 - O arquivo de notas será criado na pasta raiz do projeto se ainda não existir.
 - Os conteúdos das notas são gravados em formato Base64 no arquivo de notas. Ao pesquisar uma nota, o conteúdo será decodificado automaticamente para exibição.
 - O nome da nota não pode conter espaços em branco ou caracteres especiais.
