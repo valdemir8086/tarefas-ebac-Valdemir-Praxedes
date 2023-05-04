@@ -6,7 +6,7 @@ Para executar a aplicação, siga as instruções abaixo:
 
 ## Pré-requisitos
 
-- Java Development Kit (JDK) 8 ou superior
+- Java Development Kit (JDK) 17 ou superior
 - Arquivo JAR da aplicação NotaApp
 
 ## Instruções
